@@ -1,5 +1,5 @@
 # Bookshelf-API
-Submission Proyek Akhir - Google Cloud Back-End Basic
+Submission Proyek Akhir - Google Cloud Back-End Basic.
 
 Terdapat 7 kriteria utama, diantaranya :
 1. Aplikasi menggunakan port 9000
